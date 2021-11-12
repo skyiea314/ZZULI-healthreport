@@ -25,11 +25,14 @@
  <a target="_blank" href="https://xwwwb.github.io/zzulidakadocs/#/docker">点我查看教程</a>
 <h3>使用Python原生环境部署到Linux服务器</h3>
  <a target="_blank" href="https://xwwwb.github.io/zzulidakadocs/#/linux">点我查看教程</a>
+<h3>部署到Windows(两校区每晚断电，不推荐使用)</h3>
+ <a target="_blank" href="https://xwwwb.github.io/zzulidakadocs/#/local">点我查看教程</a>
 <h2>贡献者</h2>
 
  [billionray](https://github.com/billionray) ：国教20级  
  [xwwwb](https://github.com/xwwwb) ：数信20级
-
+ 
+ [skyiea314](https://github.com/skyiea314)
 
 <h2>⚠风险提示和免责声明</h2>
 
